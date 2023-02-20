@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, Data Engineering, , Angular, **
 
-- 📫 How to reach me **sukuzhanay@gmail.com**
+- 📫 How to reach me **aitorperez.v@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
