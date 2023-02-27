@@ -4,7 +4,7 @@
 - 👨‍💻 I’m currently studying at **Universidad Europea**
 - 👨‍💻 I’m currently learning **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
 
-- 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, Data Engineering, , Angular, **
+- 💬 Ask me about **Python, GCP, Docker, Spark, Hadoop, Data Engineering, ML, Angular, **
 
 - 📫 How to reach me **aitorperez.v@icloud.com**
 
@@ -19,5 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukuzhanay&show_icons=true&locale=en&layout=compact&langs_count=10" alt="aitorp99" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aitorp99&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="aitorp99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aitorp99&" alt="aitorp99" /></p>
